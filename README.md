@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31927689/README.md)
 # GH3 Animations for GHWTDE — Patcher Source Code
 
 This repository contains the complete source code for the installer and uninstaller used by **GH3 Animations for GHWTDE**.
